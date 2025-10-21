@@ -1,7 +1,7 @@
 ## Hola soy Sebastian Rojas Orjuela
 
 # 💫 About Me:
-Soy estudiante de ingeniería de Software, actualmente en proceso de formación y desarrollo profesional. He aplicado mis conocimientos y habilidades de programación en diferentes proyectos. Me considero una persona que puede adaptarse a nuevas tecnologías, trabajo en equipo aprendizaje autodidacta ya que mi enfoque va la solución de problemas.<br><br>
+Soy estudiante de ingeniería de Software, actualmente en proceso de formación y desarrollo profesional. He aplicado mis conocimientos y habilidades de programación, lo que me ha permitido fortalecer mi capacidad de adaptarse a nuevas tecnologías. Me cosidero una persona facil para el trabajo en grupo, con un enfoque autodidacta y orientado a solucionar problemas.<br><br>
 
 
 ## 🌐 Socials:
